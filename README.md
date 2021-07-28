@@ -1,8 +1,9 @@
-# Shadow-Whisper (A TeleGram Bot to send messages to a person secretly!)
+# Shadow-Whisper 
+(A TeleGram Bot to send messages to a person secretly!)
+
+## Whisper part of [@Mr_Shadow_Robot](https://t.me/Mr_Shadow_Robot)
 
 ![Shadow](https://telegra.ph/file/cfc30564ae32f55b27aa5.jpg)
-
-Whisper part of [@Mr_Shadow_Robot](https://t.me/Mr_Shadow_Robot)
 
 # Deploy To Heroku
 
