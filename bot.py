@@ -17,7 +17,16 @@ Shadow = TelegramClient(
         ).start(bot_token=TOKEN)
 
 db = {}
-    
+
+@bot.on(events.NewMessage(pattern="^[!?/]start$"))
+async def stsrt(event):
+    await event.reply(
+            "**Heya, I am a Whisper Bot!**",
+            buttons=[
+                [Button.switch_inline("Go Inline", query="")]
+                ]
+            )
+
 @bot.on(events.InlineQuery(pattern="wspr"))
 async def inline(event):
     me = (await bot.get_me()).username
