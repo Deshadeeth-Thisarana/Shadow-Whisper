@@ -3,7 +3,7 @@
 
 ## Whisper part of [@Mr_Shadow_Robot](https://t.me/Mr_Shadow_Robot)
 
-![Shadow](https://telegra.ph/file/cfc30564ae32f55b27aa5.jpg)
+<p align="center"><a href="https://t.me/Mr_Shadow_Robot"><img src="https://telegra.ph/file/cfc30564ae32f55b27aa5.jpg" width="400"></a></p>
 
 # Deploy To Heroku
 
