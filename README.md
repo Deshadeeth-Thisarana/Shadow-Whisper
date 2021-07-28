@@ -1,5 +1,4 @@
 # Shadow-Whisper 
-(A TeleGram Bot to send messages to a person secretly!)
 
 ## Whisper part of [@Mr_Shadow_Robot](https://t.me/Mr_Shadow_Robot)
 
