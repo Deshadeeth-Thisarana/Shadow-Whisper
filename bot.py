@@ -10,7 +10,7 @@ API_ID = "12345",
 API_HASH = "abcdefghijklmnopqrstuvwxyz",
 TOKEN = os.environ.get["TOKEN", None]
 
-Shadow = TelegramClient(
+bot = TelegramClient(
         "Whisper",
         api_id=API_ID,
         api_hash=API_HASH
