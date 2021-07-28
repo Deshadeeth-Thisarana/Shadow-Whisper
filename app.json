@@ -1,0 +1,29 @@
+{
+	"name": "Shadow-Whisper",
+	"description": "A Telegram Bot to send messages secretly!",
+	"repository": "https://github.com/deshadeeth-thisarana/Shadow-Whisper",
+	"logo": "https://telegra.ph/file/2adf03bd079a0243aafac.png",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"telethon"
+	],
+        "env": {
+            "TOKEN": {
+                "description": "Your Bot token from @Botfather"
+                },
+            "API_ID": {
+                "description": "Your API_ID from https://my.telegram.org/apps"
+                },
+            "API_HASH": {
+                "description": "Your API_HASH from https://my.telegram.org/apps"
+                }
+        },
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
