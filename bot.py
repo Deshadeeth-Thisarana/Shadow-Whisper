@@ -1,4 +1,4 @@
-﻿from telethon import events, TelegramClient, Button
+from telethon import events, TelegramClient, Button
 import logging
 from telethon.tl.functions.users import GetFullUserRequest as us
 import os
@@ -6,8 +6,8 @@ import os
 
 logging.basicConfig(level=logging.INFO)
 
-API_ID = "",    
-API_HASH = "",
+API_ID = "12345",    
+API_HASH = "abcdefghijklmnopqrstuvwxyz",
 TOKEN = os.environ.get["TOKEN", None]
 
 Shadow = TelegramClient(
