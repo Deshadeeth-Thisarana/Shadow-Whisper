@@ -8,6 +8,8 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Shadow-Whisper)
 
-## Credits
+## Contributor
 - [DeshadeethThisarana](https://github.com/deshadeeth-thisarana) : Owner
-- [ReeshuXD](https://github.com/Reeshuxd) : Dev
+
+## Credits
+- [ReeshuXD](https://github.com/Reeshuxd)
